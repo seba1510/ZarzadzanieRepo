@@ -1,1 +1,6 @@
 test.txt
+*log*
+*build*
+*.pdf
+*.tmp*
+*.log*
