@@ -1,1 +1,1 @@
-Dowolny tekst.
+Dowolny tekst w innym miejscu.
